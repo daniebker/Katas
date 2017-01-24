@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChopKata.Tests", "ChopKata.Tests\ChopKata.Tests.csproj", "{9E451934-685A-46AF-A703-F435400607D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChopKata.Lib", "ChopKata.Lib\ChopKata.Lib.csproj", "{5AC26DBB-67B8-4632-8218-938262943473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E451934-685A-46AF-A703-F435400607D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E451934-685A-46AF-A703-F435400607D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E451934-685A-46AF-A703-F435400607D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E451934-685A-46AF-A703-F435400607D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC26DBB-67B8-4632-8218-938262943473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC26DBB-67B8-4632-8218-938262943473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC26DBB-67B8-4632-8218-938262943473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC26DBB-67B8-4632-8218-938262943473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
